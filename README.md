@@ -1,6 +1,6 @@
-# CSE 515 - Multimedia and Web Databases
+# ViVeC3
 
-General repository for group 15's project.
+Using latent semantics, we build clustering, classification, and approximate multidimensional indices (for example, using Locality-Sensitive Hashing) for efficient information retrieval on the Caltech101 Dataset. Includes efficacy with precision/recall, and Relevance Feedback using SVM and Probabilistic Models.
 
 Note: Any missing DB files that can't be generated can be generated using ViVeC2
 
@@ -89,9 +89,3 @@ Gerard Salton and Chris Buckley. Improving retrieval performance by relevance fe
 American Society for Information Science. 41, pp. 288-297, 1990.
 which enable the user to tag some of the results returned by 4b as and then return a new set of ranked results, relying on
 the feedback system selected by the user, either by revising the query or by re-ordering the existing results.
-Deliverables:
-• Your code (properly commented) and a README file.
-• Your outputs for the provided sample inputs.
-• A short report describing your work and the results.
-Please place your code in a directory titled “Code”, the outputs to a directory called “Outputs”, and your report in a directory
-called “Report”; zip or tar all off them together and submit it through the digital dropbox.
